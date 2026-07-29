@@ -1,6 +1,6 @@
 # 📰 Web-3D News
 
-> Cập nhật tự động lúc **22:23 28/07/2026** (UTC+7) · [Nguồn dữ liệu](#nguon-du-lieu)
+> Cập nhật tự động lúc **07:00 29/07/2026** (UTC+7) · [Nguồn dữ liệu](#nguon-du-lieu)
 
 ---
 
@@ -24,7 +24,7 @@
 | [9.17.0](https://github.com/BabylonJS/Babylon.js/releases/tag/9.17.0) | 16/07/2026 | - Preserve antialiased edges when writing depth - [_Bug Fix_] by [VicenteCartas](https://github.com/ |
 | [9.16.2](https://github.com/BabylonJS/Babylon.js/releases/tag/9.16.2) | 15/07/2026 | - Add writeToDepthBuffer option to MSDF TextRenderer - by [VicenteCartas](https://github.com/Vicente |
 
-**npm latest:** `babylonjs@9.18.0` — 23/07/2026
+**npm latest:** `babylonjs@9.18.1` — 29/07/2026
 
 ---
 
