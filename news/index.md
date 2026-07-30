@@ -1,6 +1,6 @@
 # 📰 Web-3D News
 
-> Cập nhật tự động lúc **14:36 30/07/2026** (UTC+7) · [Nguồn dữ liệu](#nguon-du-lieu)
+> Cập nhật tự động lúc **18:10 30/07/2026** (UTC+7) · [Nguồn dữ liệu](#nguon-du-lieu)
 
 ---
 
@@ -20,11 +20,11 @@
 
 | Phiên bản | Ngày | Ghi chú |
 |---|---|---|
+| [9.19.0](https://github.com/BabylonJS/Babylon.js/releases/tag/9.19.0) | 30/07/2026 | - Restore transitive side-effect registrations - [_Bug Fix_] by [RaananW](https://github.com/RaananW |
 | [9.18.2](https://github.com/BabylonJS/Babylon.js/releases/tag/9.18.2) | 30/07/2026 | - build: update dependencies and clear npm audit findings - by [RaananW](https://github.com/RaananW) |
 | [9.18.0](https://github.com/BabylonJS/Babylon.js/releases/tag/9.18.0) | 23/07/2026 | - Fix PerfCounter min/max initialization - [_Bug Fix_] by [deltakosh](https://github.com/deltakosh) |
-| [9.17.0](https://github.com/BabylonJS/Babylon.js/releases/tag/9.17.0) | 16/07/2026 | - Preserve antialiased edges when writing depth - [_Bug Fix_] by [VicenteCartas](https://github.com/ |
 
-**npm latest:** `babylonjs@9.18.2` — 30/07/2026
+**npm latest:** `babylonjs@9.19.0` — 30/07/2026
 
 ---
 
