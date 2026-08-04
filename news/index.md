@@ -1,6 +1,6 @@
 # 📰 Web-3D News
 
-> Cập nhật tự động lúc **14:41 04/08/2026** (UTC+7) · [Nguồn dữ liệu](#nguon-du-lieu)
+> Cập nhật tự động lúc **18:26 04/08/2026** (UTC+7) · [Nguồn dữ liệu](#nguon-du-lieu)
 
 ---
 
@@ -10,9 +10,8 @@
 
 | Phiên bản | Ngày | Ghi chú |
 |---|---|---|
-| [r185](https://github.com/mrdoob/three.js/releases/tag/r185) | 02/07/2026 | - Global |
-| [r184](https://github.com/mrdoob/three.js/releases/tag/r184) | 16/04/2026 | - Global |
-| [r183](https://github.com/mrdoob/three.js/releases/tag/r183) | 20/02/2026 | - Global |
+_Không lấy được dữ liệu._
+
 
 **npm latest:** `three@0.185.1` — 01/07/2026
 
@@ -20,9 +19,8 @@
 
 | Phiên bản | Ngày | Ghi chú |
 |---|---|---|
-| [9.19.0](https://github.com/BabylonJS/Babylon.js/releases/tag/9.19.0) | 30/07/2026 | - Restore transitive side-effect registrations - [_Bug Fix_] by [RaananW](https://github.com/RaananW |
-| [9.18.2](https://github.com/BabylonJS/Babylon.js/releases/tag/9.18.2) | 30/07/2026 | - build: update dependencies and clear npm audit findings - by [RaananW](https://github.com/RaananW) |
-| [9.18.0](https://github.com/BabylonJS/Babylon.js/releases/tag/9.18.0) | 23/07/2026 | - Fix PerfCounter min/max initialization - [_Bug Fix_] by [deltakosh](https://github.com/deltakosh) |
+_Không lấy được dữ liệu._
+
 
 **npm latest:** `babylonjs@9.19.0` — 30/07/2026
 
