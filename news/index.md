@@ -1,6 +1,6 @@
 # 📰 Web-3D News
 
-> Cập nhật tự động lúc **22:25 04/08/2026** (UTC+7) · [Nguồn dữ liệu](#nguon-du-lieu)
+> Cập nhật tự động lúc **07:06 05/08/2026** (UTC+7) · [Nguồn dữ liệu](#nguon-du-lieu)
 
 ---
 
@@ -20,11 +20,11 @@
 
 | Phiên bản | Ngày | Ghi chú |
 |---|---|---|
+| [9.19.1](https://github.com/BabylonJS/Babylon.js/releases/tag/9.19.1) | 05/08/2026 | - Fix clustered lighting WGSL validation on Firefox WebGPU - [_Bug Fix_] by [Popov72](https://github |
 | [9.19.0](https://github.com/BabylonJS/Babylon.js/releases/tag/9.19.0) | 30/07/2026 | - Restore transitive side-effect registrations - [_Bug Fix_] by [RaananW](https://github.com/RaananW |
 | [9.18.2](https://github.com/BabylonJS/Babylon.js/releases/tag/9.18.2) | 30/07/2026 | - build: update dependencies and clear npm audit findings - by [RaananW](https://github.com/RaananW) |
-| [9.18.0](https://github.com/BabylonJS/Babylon.js/releases/tag/9.18.0) | 23/07/2026 | - Fix PerfCounter min/max initialization - [_Bug Fix_] by [deltakosh](https://github.com/deltakosh) |
 
-**npm latest:** `babylonjs@9.19.0` — 30/07/2026
+**npm latest:** `babylonjs@9.19.1` — 05/08/2026
 
 ---
 
