@@ -1,6 +1,6 @@
 # 📰 Web-3D News
 
-> Cập nhật tự động lúc **15:41 10/08/2026** (UTC+7) · [Nguồn dữ liệu](#nguon-du-lieu)
+> Cập nhật tự động lúc **17:19 10/08/2026** (UTC+7) · [Nguồn dữ liệu](#nguon-du-lieu)
 
 ---
 
@@ -10,9 +10,8 @@
 
 | Phiên bản | Ngày | Ghi chú |
 |---|---|---|
-| [r185](https://github.com/mrdoob/three.js/releases/tag/r185) | 02/07/2026 | - Global |
-| [r184](https://github.com/mrdoob/three.js/releases/tag/r184) | 16/04/2026 | - Global |
-| [r183](https://github.com/mrdoob/three.js/releases/tag/r183) | 20/02/2026 | - Global |
+_Không lấy được dữ liệu._
+
 
 **npm latest:** `three@0.185.1` — 01/07/2026
 
@@ -20,9 +19,8 @@
 
 | Phiên bản | Ngày | Ghi chú |
 |---|---|---|
-| [9.20.0](https://github.com/BabylonJS/Babylon.js/releases/tag/9.20.0) | 06/08/2026 | - Reuse graphics bindings and disable raw camera access - by [RaananW](https://github.com/RaananW) ( |
-| [9.19.1](https://github.com/BabylonJS/Babylon.js/releases/tag/9.19.1) | 05/08/2026 | - Fix clustered lighting WGSL validation on Firefox WebGPU - [_Bug Fix_] by [Popov72](https://github |
-| [9.19.0](https://github.com/BabylonJS/Babylon.js/releases/tag/9.19.0) | 30/07/2026 | - Restore transitive side-effect registrations - [_Bug Fix_] by [RaananW](https://github.com/RaananW |
+_Không lấy được dữ liệu._
+
 
 **npm latest:** `babylonjs@9.20.0` — 06/08/2026
 
