@@ -1,6 +1,6 @@
 # 📰 Web-3D News
 
-> Cập nhật tự động lúc **23:00 12/08/2026** (UTC+7) · [Nguồn dữ liệu](#nguon-du-lieu)
+> Cập nhật tự động lúc **06:45 13/08/2026** (UTC+7) · [Nguồn dữ liệu](#nguon-du-lieu)
 
 ---
 
@@ -20,11 +20,11 @@
 
 | Phiên bản | Ngày | Ghi chú |
 |---|---|---|
+| [9.20.1](https://github.com/BabylonJS/Babylon.js/releases/tag/9.20.1) | 13/08/2026 | - GPU particles: re-bake gradient lookup textures in place for value edits - by [increasinglyHuman]( |
 | [9.20.0](https://github.com/BabylonJS/Babylon.js/releases/tag/9.20.0) | 06/08/2026 | - Reuse graphics bindings and disable raw camera access - by [RaananW](https://github.com/RaananW) ( |
 | [9.19.1](https://github.com/BabylonJS/Babylon.js/releases/tag/9.19.1) | 05/08/2026 | - Fix clustered lighting WGSL validation on Firefox WebGPU - [_Bug Fix_] by [Popov72](https://github |
-| [9.19.0](https://github.com/BabylonJS/Babylon.js/releases/tag/9.19.0) | 30/07/2026 | - Restore transitive side-effect registrations - [_Bug Fix_] by [RaananW](https://github.com/RaananW |
 
-**npm latest:** `babylonjs@9.20.0` — 06/08/2026
+**npm latest:** `babylonjs@9.20.1` — 13/08/2026
 
 ---
 
