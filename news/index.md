@@ -1,6 +1,6 @@
 # 📰 Web-3D News
 
-> Cập nhật tự động lúc **23:00 13/08/2026** (UTC+7) · [Nguồn dữ liệu](#nguon-du-lieu)
+> Cập nhật tự động lúc **06:44 14/08/2026** (UTC+7) · [Nguồn dữ liệu](#nguon-du-lieu)
 
 ---
 
@@ -20,11 +20,11 @@
 
 | Phiên bản | Ngày | Ghi chú |
 |---|---|---|
+| [9.21.1](https://github.com/BabylonJS/Babylon.js/releases/tag/9.21.1) | 14/08/2026 | - Fix WebGPU rendering nothing when maxSimultaneousLights exceeds the uniform buffer budget - [_Bug |
 | [9.21.0](https://github.com/BabylonJS/Babylon.js/releases/tag/9.21.0) | 13/08/2026 | - GPU particles: re-bake gradient lookup textures in place for value edits - by [increasinglyHuman]( |
 | [9.20.1](https://github.com/BabylonJS/Babylon.js/releases/tag/9.20.1) | 13/08/2026 | - GPU particles: re-bake gradient lookup textures in place for value edits - by [increasinglyHuman]( |
-| [9.20.0](https://github.com/BabylonJS/Babylon.js/releases/tag/9.20.0) | 06/08/2026 | - Reuse graphics bindings and disable raw camera access - by [RaananW](https://github.com/RaananW) ( |
 
-**npm latest:** `babylonjs@9.21.0` — 13/08/2026
+**npm latest:** `babylonjs@9.21.1` — 14/08/2026
 
 ---
 
