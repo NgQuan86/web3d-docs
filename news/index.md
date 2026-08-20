@@ -1,6 +1,6 @@
 # 📰 Web-3D News
 
-> Cập nhật tự động lúc **22:36 20/08/2026** (UTC+7) · [Nguồn dữ liệu](#nguon-du-lieu)
+> Cập nhật tự động lúc **06:27 21/08/2026** (UTC+7) · [Nguồn dữ liệu](#nguon-du-lieu)
 
 ---
 
@@ -20,11 +20,11 @@
 
 | Phiên bản | Ngày | Ghi chú |
 |---|---|---|
+| [9.22.1](https://github.com/BabylonJS/Babylon.js/releases/tag/9.22.1) | 21/08/2026 | - fix: improve Viewer Lite compatibility - [_Bug Fix_] by [ryantrem](https://github.com/ryantrem) ([ |
 | [9.22.0](https://github.com/BabylonJS/Babylon.js/releases/tag/9.22.0) | 20/08/2026 | - Fix alpha-mode sentinel crash and report accurate caps and depth/stencil metadata - by [bkaradzic- |
 | [9.21.2](https://github.com/BabylonJS/Babylon.js/releases/tag/9.21.2) | 15/08/2026 | - Fix alpha-mode sentinel crash and report accurate caps and depth/stencil metadata - by [bkaradzic- |
-| [9.21.1](https://github.com/BabylonJS/Babylon.js/releases/tag/9.21.1) | 14/08/2026 | - Fix WebGPU rendering nothing when maxSimultaneousLights exceeds the uniform buffer budget - [_Bug |
 
-**npm latest:** `babylonjs@9.22.0` — 20/08/2026
+**npm latest:** `babylonjs@9.22.1` — 21/08/2026
 
 ---
 
