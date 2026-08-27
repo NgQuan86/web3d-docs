@@ -1,6 +1,6 @@
 # 📰 Web-3D News
 
-> Cập nhật tự động lúc **11:24 27/08/2026** (UTC+7) · [Nguồn dữ liệu](#nguon-du-lieu)
+> Cập nhật tự động lúc **23:14 27/08/2026** (UTC+7) · [Nguồn dữ liệu](#nguon-du-lieu)
 
 ---
 
@@ -20,11 +20,11 @@
 
 | Phiên bản | Ngày | Ghi chú |
 |---|---|---|
+| [9.23.0](https://github.com/BabylonJS/Babylon.js/releases/tag/9.23.0) | 27/08/2026 | - Add WebXR persistent anchor lifecycle support - by [RaananW](https://github.com/RaananW) ([#18840] |
 | [9.22.2](https://github.com/BabylonJS/Babylon.js/releases/tag/9.22.2) | 25/08/2026 | - Load single-file prefiltered cube containers and implement setStateCullFaceType - by [bkaradzic-mi |
 | [9.22.1](https://github.com/BabylonJS/Babylon.js/releases/tag/9.22.1) | 21/08/2026 | - fix: improve Viewer Lite compatibility - [_Bug Fix_] by [ryantrem](https://github.com/ryantrem) ([ |
-| [9.22.0](https://github.com/BabylonJS/Babylon.js/releases/tag/9.22.0) | 20/08/2026 | - Fix alpha-mode sentinel crash and report accurate caps and depth/stencil metadata - by [bkaradzic- |
 
-**npm latest:** `babylonjs@9.22.2` — 25/08/2026
+**npm latest:** `babylonjs@9.23.0` — 27/08/2026
 
 ---
 
